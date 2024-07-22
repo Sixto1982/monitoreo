@@ -6,9 +6,6 @@ sites:
   - name: iem-pro(front-Production)
     url: https://www.iem-pro.cl
     icon: https://www.iem-pro.cl/assets/icons/favico-150x150.ico
-  - name: iem-pro(back-Production)
-    url: https://backend.iem-pro.cl/
-    icon: https://www.iem-pro.cl/assets/icons/favico-150x150.ico
     
 assignees:
   - sixto1982
@@ -17,8 +14,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   logoUrl: https://iem-pro.cl/assets/images/Logo_Icarus2.jpeg
-  cname: demo.upptime.js.org
-  name: Iem-pro(monitoreo)
+  cname: upptime.js.org
+  name: Upptime
+  baseUrl: /monitoreo
   introTitle: "Iem-pro"
   introMessage: Icarus Chile
   navbar:
