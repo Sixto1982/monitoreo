@@ -8,7 +8,7 @@ sites:
     icon: https://www.iem-pro.cl/assets/icons/favico-150x150.ico
   - name: iem-pro(back-Production)
     url: https://backend.iem-pro.cl/
-    icon: https://backend.iem-pro.cl/favicon.ico
+    icon: https://www.iem-pro.cl/assets/icons/favico-150x150.ico
     
 assignees:
   - sixtoguerra1982
@@ -20,7 +20,7 @@ status-website:
   # theme: dark
   baseUrl: /monitoreo
   logoUrl: https://iem-pro.cl/assets/images/Logo_Icarus2.jpeg
-  name: Upptime
+  name: Iem-pro(monitoreo)
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
