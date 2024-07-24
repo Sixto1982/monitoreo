@@ -8,7 +8,7 @@ sites:
     url: https://www.iem-pro.cl
     icon: https://www.iem-pro.cl/assets/icons/favico-150x150.ico
 
-  - name: iem-back(front-Production)
+  - name: iem-pro(back-Production)
     url: https://backend.iem-pro.cl/
     icon: https://www.iem-pro.cl/assets/icons/favico-150x150.ico
     expectedStatusCodes:
@@ -22,11 +22,11 @@ assignees:
 status-website:
    #Add your custom domain name, or remove the `cname` line if you don't have a domain
    #Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: iem-pro
   theme: light
+  #cname: iem-pro.cl
   baseUrl: /monitoreo
   logoUrl: https://www.icarus.cl/site/wp-content/uploads/2020/10/Variacion-sf.png
-  name: Upptime
+  name: Icarus-Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
