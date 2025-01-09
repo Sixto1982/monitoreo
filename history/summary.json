@@ -4,19 +4,19 @@
     "url": "https://www.iem-pro.cl",
     "icon": "https://www.iem-pro.cl/assets/icons/favico-150x150.ico",
     "slug": "iem-pro-front-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 294,
-    "timeWeek": 317,
-    "timeMonth": 285,
-    "timeYear": 313,
+    "time": 312,
+    "timeDay": 261,
+    "timeWeek": 304,
+    "timeMonth": 282,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-01-09": 0
+      "2025-01-09": 10
     }
   },
   {
