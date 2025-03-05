@@ -22,7 +22,7 @@
     "url": "https://backend.iem-pro.cl/",
     "icon": "https://www.iem-pro.cl/assets/icons/favico-150x150.ico",
     "slug": "iem-pro-back-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
     "uptimeDay": "98.59%",
     "uptimeWeek": "99.80%",
@@ -34,6 +34,7 @@
     "timeMonth": 304,
     "timeYear": 336,
     "dailyMinutesDown": {
+      "2025-03-05": 0,
       "2025-03-04": 20,
       "2024-10-22": 15,
       "2024-07-23": 805,
