@@ -15,7 +15,9 @@
     "timeWeek": 346,
     "timeMonth": 364,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-25": 0
+    }
   },
   {
     "name": "iem-pro(back-Production)",
