@@ -6,17 +6,17 @@
     "slug": "iem-pro-front-production",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 109,
-    "timeWeek": 346,
-    "timeMonth": 364,
+    "timeDay": 306,
+    "timeWeek": 359,
+    "timeMonth": 366,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-04-25": 0
+      "2025-04-25": 11
     }
   },
   {
