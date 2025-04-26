@@ -6,18 +6,16 @@
     "slug": "iem-pro-front-production",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 306,
-    "timeWeek": 359,
-    "timeMonth": 366,
+    "timeDay": 328,
+    "timeWeek": 341,
+    "timeMonth": 358,
     "timeYear": 316,
-    "dailyMinutesDown": {
-      "2025-04-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "iem-pro(back-Production)",
@@ -32,8 +30,8 @@
     "uptimeYear": "99.70%",
     "time": 333,
     "timeDay": 235,
-    "timeWeek": 326,
-    "timeMonth": 338,
+    "timeWeek": 322,
+    "timeMonth": 329,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2025-03-05": 48,
