@@ -6,7 +6,7 @@
     "slug": "iem-pro-front-production",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 462,
     "timeMonth": 336,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-28": 0
+    }
   },
   {
     "name": "iem-pro(back-Production)",
     "url": "https://backend.iem-pro.cl/",
     "icon": "https://www.iem-pro.cl/assets/icons/favico-150x150.ico",
     "slug": "iem-pro-back-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 309,
     "timeYear": 331,
     "dailyMinutesDown": {
+      "2025-05-28": 0,
       "2025-03-05": 48,
       "2025-03-04": 20,
       "2024-10-22": 15,
