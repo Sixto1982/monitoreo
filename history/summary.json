@@ -4,7 +4,7 @@
     "url": "https://www.iem-pro.cl",
     "icon": "https://www.iem-pro.cl/assets/icons/favico-150x150.ico",
     "slug": "iem-pro-front-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 329,
     "timeYear": 318,
     "dailyMinutesDown": {
+      "2025-07-05": 0,
       "2025-05-29": 77,
       "2025-05-28": 271
     }
