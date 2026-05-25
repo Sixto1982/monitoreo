@@ -5,18 +5,21 @@
     "icon": "https://www.iem-pro.cl/assets/icons/favico-150x150.ico",
     "slug": "iem-pro-front-production",
     "status": "down",
-    "uptime": "51.78%",
+    "uptime": "51.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "11.44%",
+    "uptimeYear": "11.16%",
     "time": 327,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 328,
+    "timeYear": 326,
     "dailyMinutesDown": {
-      "2026-05-24": 204,
+      "2025-05-29": 77,
+      "2025-05-28": 271,
+      "2026-05-25": 216,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -339,9 +342,7 @@
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
-      "2025-07-05": 1248,
-      "2025-05-29": 77,
-      "2025-05-28": 271
+      "2025-07-05": 1248
     }
   },
   {
@@ -355,16 +356,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 292,
-    "timeDay": 206,
-    "timeWeek": 225,
-    "timeMonth": 266,
-    "timeYear": 285,
+    "time": 294,
+    "timeDay": 944,
+    "timeWeek": 343,
+    "timeMonth": 278,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2026-03-10": 62,
-      "2026-03-09": 7,
+      "2025-05-28": 267,
       "2025-09-01": 25,
-      "2025-05-28": 267
+      "2026-03-10": 62,
+      "2026-03-09": 7
     }
   }
 ]
